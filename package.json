@@ -15,11 +15,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "if-env": "^1.0.4"
+    "express": "^4.17.3",
+    "idb": "^7.0.1",
+    "if-env": "^1.0.4",
+    "path": "^0.12.7",
+    "webpack-pwa-manifest": "^4.3.0"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.15"
   }
 }
