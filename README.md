@@ -1,56 +1,44 @@
-# text-editor
-----
+# text-editor (Just Another Text Editor)
 
+------
 ## Table of Content
 
 - [Description](#description)
-- [Objectives](#objectives)
 - [Usage](#usage)
-- [Media](#media)
+- [Deployed Link](#deployed-link)
 - [GitHub Repository](#github-repository)
-- [Authors](#authors)  
-- [Contributors and Reference Sources](#contributors-and-reference-sources)
+- [Author](#author)  
 - [Technologies Used](#technologies-used) 
 - [License](#license)
 
--------
+------
 ## Description:  
 
-
-
-------
-## Objectives:
-```
-
-```
+J.A.T.E was created as a simple text editor app that can function both online and offline, with a variety of data persistence options in order to ensure that data is not lost in any scenario. The application first looks to use the data in the indexedDB to populate the editor, then if it cannot access that it will use local storage. For use offline, this application can be downloaded to your desktop as an application.
 
 ------
 ## Usage:
 
-
+To use this app go to the link provided below.  For offline use, go to the link and hit the "install" button to install the app locally, for offline use.
 
 ------
-## Media:
+## Deployed Link:
 
-![Text Editor]()
-
-
+- [Heroku Deployed: Text Editor (Just Another Text Editor)](https://jate-kj.herokuapp.com/)
 
 ## Github Repository:
 
 - [Github Repository for Text Editor](https://github.com/ksjefferies/text-editor)
 
-## Authors:
+## Author:
 
 - [Kelly Jefferies](https://github.com/ksjefferies)
-
-## Contributors and Reference Sources:
-
-Lesson 19: HW examples
 
 ## Technologies Used:
 
 - [Express.js](https://expressjs.com/)
+- [Node.js](https://nodejs.org/en/)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/Javascript)
 
 ## License:
 
