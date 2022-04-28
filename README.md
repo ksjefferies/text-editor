@@ -46,14 +46,7 @@
 
 ## Contributors and Reference Sources:
 
-database.js:
-    lesson 19 section 23
-install.js
-    lesson 19 section 28
-webpack.config
-    lesson 19 section 19, 21, 25, 26
-
-** need to read more on src-sw.js routing
+Lesson 19: HW examples
 
 ## Technologies Used:
 
