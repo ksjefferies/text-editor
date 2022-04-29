@@ -33,11 +33,11 @@ The following image shows the application's `manifest.json` file:
 
 ![Screenshot of Text Editor](./client/src/images/manifest.jpg)
 
-The following image shows the application's registered service worker:
+The following image shows the application's registered `service worker`:
 
 ![Screenshot of Text Editor](./client/src/images/service-workers.jpg)
 
-The following image shows the application's IndexedDB storage:
+The following image shows the application's `IndexedDB` storage:
 
 ![Screenshot of Text Editor](./client/src/images/text-2.jpg)
 
