@@ -20,7 +20,7 @@ export const putDb = async (content) => {
   const request = store.put({ id: 1, value: content });
   const result = await request;
 
-  console.log('Data successfully saved to database', result.value);
+  console.log('Data successfully saved to database');
 };
 
 // Get all content from database
@@ -31,7 +31,7 @@ export const getDb = async () => {
   const request = store.get(1);
   const result = await request;
   result
-    ? console.log('Data retrieved from database', result.value)
+    ? console.log('Data retrieved from database')
     : console.log('Data not found in the database.');
 
   return result?.value;
