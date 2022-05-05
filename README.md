@@ -25,19 +25,19 @@ To use this app go to the link provided below.  For offline use, go to the link 
 ------
 ## Images:
 
-The following image shows the application retrieves database, injecting to editor, and successfully saving to DB.:
+The following image shows the application retrieves database, injecting to editor, and successfully saving to DB.:  
 
 ![Screenshot of Text Editor](./client/src/images/text-1.jpg)
 
-The following image shows the application's `manifest.json` file:
+The following image shows the application's `manifest.json` file:  
 
 ![Screenshot of Text Editor](./client/src/images/manifest.jpg)
 
-The following image shows the application's registered `service worker`:
+The following image shows the application's registered `service worker`:  
 
 ![Screenshot of Text Editor](./client/src/images/service-workers.jpg)
 
-The following image shows the application's `IndexedDB` storage:
+The following image shows the application's `IndexedDB` storage:  
 
 ![Screenshot of Text Editor](./client/src/images/text-2.jpg)
 
@@ -56,9 +56,9 @@ The following image shows the application's `IndexedDB` storage:
 
 ## Technologies Used:
 
-- [Express.js](https://expressjs.com/)
-- [Node.js](https://nodejs.org/en/)
-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/Javascript)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## License:
 
