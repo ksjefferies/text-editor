@@ -42,9 +42,6 @@ The following image shows the application's `IndexedDB` storage:
 ![Screenshot of Text Editor](./client/src/images/text-2.jpg)
 
 ------
-## Deployed Link:
-
-- [Heroku Deployed: Text Editor (Just Another Text Editor)](https://jate-kj.herokuapp.com/)
 
 ## Github Repository:
 
@@ -60,7 +57,6 @@ The following image shows the application's `IndexedDB` storage:
 ![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## License:
 
